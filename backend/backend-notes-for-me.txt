@@ -1,0 +1,13 @@
+1 => creating file name is backend
+
+2 => run command = npx init
+
+(create file name is index.js)
+
+3 => install this packges => express=> npm install express,mongoose => npm install mongoose,nodemon => npm install -D nodemon (npm install -G nodemon)
+
+4 => run this command => nodemon ./index.js
+
+5 => create db.js file for connect mongodb
+
+6 => express connect port go to website => https://expressjs.com/en/starter/hello-world.html
